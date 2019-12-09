@@ -1,15 +1,15 @@
 /**
  *
- * Hey. My name's Samuel Reed. I'm CTO of BitMEX.com and frequent
- * open source contributor.
+ * Bonjour, je m'appelle Frederic Ho Can Sung.
+ * Je suis developpeur Full Stack.
  *
- * I build interactive websites.
- *
- * How about some live coding?
+ * Je vous propose d'assister à la réalisation,
+ * d'un de mes projets.
+ * On commence à coder ?
  */
 
 /**
- * Let's begin. We start by animating... well, everything.
+ * Pour commencer on va animer tout le site.
  */
 
 * {
@@ -17,10 +17,10 @@
 }
 
 /**
- * That didn't do much. But you'll see.
+ * Ouais je sais ça n'a rien fait, mais vous verrez...
  *
- * Black on white is really boring,
- * so let's do something about it.
+ * Noir sur blanc ça fait vachement website 1.0.
+ * Changeons un peu tous ca...
  */
 
 html {
@@ -28,7 +28,7 @@ html {
 }
 
 /***
- * Hold on...
+ * Ooops on voit plus trop la...
  */
 
 pre, a {
@@ -36,11 +36,11 @@ pre, a {
 }
 
 /**
- * That's better. Sorry about your eyes.
+ * Ok c'est déjà mieux.
  *
- * Working in this big empty space is tough.
+ * Travailler dans une fenetre blanche c'est pas tip top.
  *
- * I'm going to make a nice area for us to work in.
+ * On va commencer à s'organiser.
  */
 
 pre:not(:empty) {
@@ -50,7 +50,7 @@ pre:not(:empty) {
   max-height: 45vh;
   width: 49%;
   font-size: 14px;
-  font-family: monospace;
+  font-family: Roboto, monospace;
   padding: 1vh 0.5vw;
   box-shadow: -4px 4px 2px 0 rgba(0,0,0,0.3);
   white-space: pre-wrap;
@@ -59,8 +59,8 @@ pre:not(:empty) {
 }
 
 /**
- * Okay. We're going to start filling up the screen.
- * Let's get ready to do some work.
+ * Ok. Ca commence à prendre forme.
+ * Mettons nous au travail.
  */
 
 #style-text {
@@ -69,8 +69,8 @@ pre:not(:empty) {
 }
 
 /**
- * This is good, but all the text is white!
- * Let's make it even more readable.
+ * C'est pas mal mais pas très lisible.
+ * On va rajouter un peu de coloration syntaxique.
  */
 
 .comment       { color: #857F6B; font-style: italic; }
@@ -81,8 +81,8 @@ pre:not(:empty) {
 .value.px      { color: #F92772; }
 
 /**
- * Now we're getting somewhere.
- * Time to get a little perspective.
+ * Ok ok on avance.
+ * Un peu de perspective.
  */
 
 body {
@@ -96,8 +96,8 @@ body {
 }
 
 /**
- * So, let's talk projects. That's why you're here, right?
- * I can't imagine you'd come just to see the pretty colors.
+ * Bon parlons un peu de moi, vous êtes la pour ça non ?
+ * Vous êtes pas juste ici pour voir des bouts de code..
  */
 
 pre:not(#style-text) {
