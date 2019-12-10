@@ -46,12 +46,12 @@ Compétences
 Experiences
 -----------
 
-*Developpeur Full Stack @ Société Général Corporate Investiment Banking (SGCIB), depuis 2015*
+**Developpeur Full Stack @ Société Général Corporate Investiment Banking (SGCIB), depuis 2015**
 > Developpeur C# / Angular. J'y réalise des modèles de calculs de risque en C#, et accompagne la transformation numérique de la banque à l'aide de mon expertise full stack. J'y suis actuellement animateur de l'équipe dédier à l'UX au niveau de mon service.
 
 Stack : C# 4.5 & .Net Core 2.2 / MSSql / ElasticSearch / Angular / ZeroMQ / Ruby / Kibana / LogStash / TeamCity / Git / Jira
 
-*Developpeur C# @ Informatique Caisses des Depots et Consignations (ICDC) - 2012 <> 2014*
+**Developpeur C# @ Informatique Caisses des Depots et Consignations (ICDC) - 2012 <> 2014**
 > Developpeur C#. J'y ai réaliser des travaux d'optimisations sur le rapprochement bancaire et sur la plateforme de passage d'ordre numéraire.
 
 Stack : C# / Oracle / SVN / Quality Center / CTRL-M.

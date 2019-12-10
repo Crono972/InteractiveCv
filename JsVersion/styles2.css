@@ -1,6 +1,6 @@
 
 /**
- * The text could use some tweaks.
+ * On rends le tout un peu plus sexy...
  */
 
 .md {
@@ -22,6 +22,21 @@
   margin: 0px;
 }
 
+.md h1 {
+  color: #663d00;
+}
+
+.md h2 {
+  color: #cc7a00
+}
+
+.md h3 {
+  color: #ffa31a;
+}
+
+.md strong {
+  color: #ffcc80
+}
 /**
  * Ok c'est déjà mieux.
  *

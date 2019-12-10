@@ -9,19 +9,23 @@
 
 #work-text .md {
   -webkit-transform: rotateY(190deg) rotateZ(180deg);
-  margin-top: 800px;
+  /* margin-top: 800px; */
+}
+
+#work-text {
+  max-height: 93.1vh;
 }
 
 /**
- * Alright. We're ready.
+ * Ok. C'est parti....
  *
  * 3...
  * 2...
  * 1...
  *
  * .
- * ....faked you out.
+ * ....Ah merde ça a pas marché ?
  *
- * Okay here we go!
+ * Na je déconne !
  *
  */
