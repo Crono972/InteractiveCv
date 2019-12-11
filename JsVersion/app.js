@@ -23,6 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
   populateHeader();
   getEls();
   createEventHandlers();
+  printInConsole();
   startAnimation();
 });
 
@@ -208,4 +209,14 @@ function createWorkBox() {
     // Scroll. If we've flipped, flip the scroll direction.
     workEl.scrollTop += (dy * (flipped ? -1 : 1));
   }, true);
+}
+
+function printInConsole() {
+  console.log('######################################################');
+  console.log('# Si vous me contacter je serais très content de     #');
+  console.log('# vous partagez les sources ou de discuter de mon cv #');
+  console.log('# avec vous. Vous pouvez me contacter via LinkedIN   #');
+  console.log('# ou par mail a hocansungf at gmail dot com          #');
+  console.log('#                                             Merci. #');
+  console.log('######################################################');
 }
