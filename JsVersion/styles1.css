@@ -1,31 +1,24 @@
 
 /**
- * Le cv en Markdown a gauche, ressort pas tip top, on essaie de fixer ça...
+ * Le cv en Markdown a gauche, c'est pas très lisible.
+ * Faudrait render le markdown en html.
  */
 
-#work-text.flipped {
+ #work-text.flipped {
   -webkit-transform: rotateX(0deg) rotateY(190deg) rotateZ(180deg);
 }
 
 #work-text .md {
   -webkit-transform: rotateY(190deg) rotateZ(180deg);
-  /* margin-top: 800px; */
 }
 
-#work-text {
-  max-height: 93.1vh;
-}
-
-/**
- * Ok. C'est parti....
+ /* Ok. C'est parti....
  *
  * 3...
  * 2...
  * 1...
  *
- * .
- * ....Ah merde ça a pas marché ?
  *
- * Na je déconne !
- *
+ * ??? pourquoi ça n'a pas marché ? ... 
+ * Na je déconne.
  */

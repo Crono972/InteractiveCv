@@ -20,7 +20,7 @@
  * Ouais je sais ça n'a rien fait, mais vous verrez...
  *
  * Noir sur blanc ça fait vachement website 1.0.
- * Changeons un peu tous ca...
+ * Changeons un peu tous ça...
  */
 
 html {
@@ -103,4 +103,5 @@ body {
 pre:not(#style-text) {
   -webkit-transform: rotateY(10deg);
   -webkit-transform-origin: left;
+  max-height: 93.1vh;
 }
