@@ -1,8 +1,3 @@
-STRML.net
-=========
-
-[View Site](http://strml.net)
-
 Building
 --------
 
