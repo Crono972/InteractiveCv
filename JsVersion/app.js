@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
 async function startAnimation() {
   try {
     await writeTo(styleEl, styleText[0], 0, speed, true, 1);
-    await writeTo(workEl, workText, 0, speed, false, 1);
+    await writeTo(workEl, workText, 0, 8, false, 2);
     await writeTo(styleEl, styleText[1], 0, speed, true, 1);
     createWorkBox();
     await Promise.delay(1000);
@@ -196,6 +196,11 @@ function createWorkBox() {
 
   workEl.classList.add('flipped');
   workEl.scrollTop = 9999;
+
+  require('mouse-wheel')(workEl, async function (dx, dy) {
+    // Scroll. If we've flipped, flip the scroll direction.
+    workEl.scrollTop += (dy * -1);
+  }, true);
 }
 
 function printInConsole() {
