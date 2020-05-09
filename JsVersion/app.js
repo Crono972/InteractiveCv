@@ -208,7 +208,7 @@ function printInConsole() {
   console.log('# Si vous me contacter je serais très content de     #');
   console.log('# vous partagez les sources ou de discuter de mon cv #');
   console.log('# avec vous. Vous pouvez me contacter via LinkedIN   #');
-  console.log('# ou par mail a hocansungf at gmail dot com          #');
+  console.log('# ou par mail a frederic at hocansung dot com          #');
   console.log('#                                             Merci. #');
   console.log('######################################################');
 }

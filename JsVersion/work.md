@@ -9,7 +9,7 @@ de nouvelles technologies. Craftman, adepte du TDD/BDD, je sais faire du DEVOps 
 Contact
 -------
 
-* hocansungf at gmail dot com
+* frederic@hocansung.com
 * Frederic Ho Can Sung sur linkedIN.
 
 Compétences
@@ -39,19 +39,21 @@ Compétences
 * [Git ![git](assets/gitlogo.png)](https://git-scm.com/)
 * [Kibana - ![kibana](assets/kibana.png)](https://www.elastic.co/fr/products/kibana)
 * [LogStash - ![logstash](assets/logstash.png)](https://www.elastic.co/fr/products/logstash)
+* [Puppet](https://puppet.com/)
 * [SignalR - ![signalr](assets/signalr.png)](https://dotnet.microsoft.com/apps/aspnet/signalr)
 * [TeamCity - ![teamcity](assets/teamcity.png)](https://www.jetbrains.com/teamcity/)
 * [Visual Studio - ![visual studio](assets/vs.png)](https://visualstudio.microsoft.com/fr/vs/)
 * [Visual Studio Code - ![visual studio code](assets/vscode.png)](https://code.visualstudio.com/)
+* [XL-Deploy](https://xebialabs.com/products/deployment-automation-xl-deploy/)
 * [ZeroMQ - ![zeromq](assets/zeromq.png)](https://zeromq.org/)
 
 Experiences
 -----------
 
 [**Developpeur Full Stack @ Société Général Corporate Investiment Banking (SGCIB), depuis 2015**](https://wholesale.banking.societegenerale.com/)
-> Developpeur C# / Angular. J'y réalise des modèles de calculs de risque en C#, et accompagne la transformation numérique de la banque à l'aide de mon expertise full stack. J'y suis actuellement animateur de l'équipe dédier à l'UX au niveau de mon service.
+> Developpeur C# / Angular. J'y réalise des modèles de calculs de risque en C#, et accompagne la transformation numérique de la banque à l'aide de mon expertise full stack. J'ai participé à la digitalisation de l'application et la mise en place de nouvelle solution en .net core. J'y suis actuellement animateur de l'équipe dédier à l'UX au niveau de mon service.
 
-Stack : C# 4.5 & .Net Core 2.2 / MSSql / ElasticSearch / Angular / ZeroMQ / Ruby / Kibana / LogStash / TeamCity / Git / Jira
+Stack : C# 4.5 & .Net Core 3.1 / MSSql / ElasticSearch / Angular / ZeroMQ / Ruby / Kibana / LogStash / TeamCity / Git / Jira
 
 [**Developpeur C# @ Informatique Caisses des Depots et Consignations (ICDC) - 2012 <> 2014**](https://www.icdc.caissedesdepots.fr/)
 > Developpeur C#. J'y ai réaliser des travaux d'optimisations sur le rapprochement bancaire et sur la plateforme de passage d'ordre numéraire.
